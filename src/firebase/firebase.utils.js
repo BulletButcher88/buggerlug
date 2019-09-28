@@ -3,13 +3,14 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: "AIzaSyATefatcs3T7BlkpoGmtqxOCE4F4BgiR3w",
-  authDomain: "crwn-db-6fd51.firebaseapp.com",
-  databaseURL: "https://crwn-db-6fd51.firebaseio.com",
-  projectId: "crwn-db-6fd51",
+  apiKey: "AIzaSyCuvQeGUsqTbG3QGbUnSG8D02-1RTMuZys",
+  authDomain: "isgood-test.firebaseapp.com",
+  databaseURL: "https://isgood-test.firebaseio.com",
+  projectId: "isgood-test",
   storageBucket: "",
-  messagingSenderId: "1089320036298",
-  appId: "1:1089320036298:web:9b5926488538512999d133"
+  messagingSenderId: "873884236672",
+  appId: "1:873884236672:web:84d1de7b14be8dec0f1f65",
+  measurementId: "G-XXLG1S91M1"
 };
 
 firebase.initializeApp(config);
