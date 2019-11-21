@@ -1,38 +1,42 @@
-import React from 'react';
-import { Link } from 'react-router-dom' 
-import { connect } from 'react-redux'
+import React from "react";
+import { Link } from "react-router-dom";
+import { connect } from "react-redux";
 
-import { auth } from '../../firebase/firebase.utils'
+import { auth } from "../../firebase/firebase.utils";
 
-import { ReactComponent as Logo } from '../../asset/crown.svg'
-import './header.style.scss'
+import CartIcon from "../cart-icon/cart-icon.component";
 
-const Header = ({currentUser}) => (
-    <div className='header'>
-      <Link className='logo-container' to='/'>
-        <Logo className='logo'/>
+import { ReactComponent as Logo } from "../../asset/crown.svg";
+import "./header.style.scss";
+
+const Header = ({ currentUser }) => (
+  <div className="header">
+    <Link className="logo-container" to="/">
+      <Logo className="logo" />
+    </Link>
+    <div className="options">
+      <Link className="option" to="/shop">
+        SHOP
       </Link>
-      <div className='options'>
-        <Link className='option' to='/shop'>
-          SHOP
+      <Link className="option" to="/shop">
+        CONTACT
+      </Link>
+      {currentUser ? (
+        <div className="option" onClick={() => auth.signOut()}>
+          SIGN OUT
+        </div>
+      ) : (
+        <Link className="option" to="/signin">
+          SIGN IN
         </Link>
-        <Link className='option' to='/shop'>
-          CONTACT
-        </Link>
-        {
-          currentUser ?
-          <div className='option' onClick={() => auth.signOut()}>SIGN OUT</div>
-          :
-          <Link className='option' to='/signin'>SIGN IN</Link>
-        }
-      </div>
+      )}
+      <CartIcon />
     </div>
-)
+  </div>
+);
 
-const mapStateToProps = state => (
-  {
-    currentUser: state.user.currentUser
-  }
-)
+const mapStateToProps = state => ({
+  currentUser: state.user.currentUser
+});
 
-export default connect(mapStateToProps)(Header)
+export default connect(mapStateToProps)(Header);
