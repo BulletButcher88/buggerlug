@@ -12,7 +12,9 @@ const CollectionItem = ({ item, addItem }) => {
       <div
         className="image"
         style={{
-          background: `url(${imageUrl})`
+          background: `url(${imageUrl})`,
+          backgroundSize: "cover",
+          backgroundPosition: "center"
         }}
       />
       <div className="collection-footer">
