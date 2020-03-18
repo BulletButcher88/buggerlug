@@ -14,6 +14,7 @@ const StripeCheckoutButton = ({ price }) => {
     <StripeCheckout
       lable="Pay Now"
       name="CRWN Ltd"
+      currency="AUS"
       billingAddress
       shippingAddress
       image="https://sendeyo.com/up/d/f3eb2117da"
