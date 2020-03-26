@@ -14,7 +14,8 @@ import {
   HeaderContainer,
   LogoContainer,
   OptionsContainer,
-  OptionLink
+  OptionLink,
+  TitleContainer
 } from "./header.style";
 
 const Header = ({ currentUser, hidden }) => (
@@ -22,6 +23,7 @@ const Header = ({ currentUser, hidden }) => (
     <LogoContainer to="/">
       <Logo className="logo" />
     </LogoContainer>
+    <TitleContainer>BUGGERLUG</TitleContainer>
     <OptionsContainer>
       <OptionLink to="/shop">SHOP</OptionLink>
       <OptionLink to="/shop">CONTACT</OptionLink>

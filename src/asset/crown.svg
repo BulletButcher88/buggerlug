@@ -1,17 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="50px" height="39px" viewBox="0 0 50 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
-    <title>Group</title>
-    <desc>Created with Sketch.</desc>
-    <g id="WiP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard" transform="translate(-90.000000, -38.000000)">
-            <g id="Group" transform="translate(90.000000, 38.000000)">
-                <polygon id="Rectangle" fill="#808282" points="3 14 25 26.5 47 14 40.855176 39 9.08421785 39"></polygon>
-                <polygon id="Triangle" fill-opacity="0.262838724" fill="#101A1A" points="25 8 40 39 10 39"></polygon>
-                <circle id="Oval" fill="#5E6363" cx="2" cy="9" r="2"></circle>
-                <circle id="Oval" fill="#5E6363" cx="25" cy="2" r="2"></circle>
-                <circle id="Oval" fill="#5E6363" cx="48" cy="9" r="2"></circle>
-            </g>
-        </g>
-    </g>
+<svg width="95" height="73" viewBox="0 0 95 73" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="95" height="73" fill="white"/>
+<path d="M24.3596 40.242H40.2622V42.8227H24.3596V40.242Z" fill="#EE008F"/>
+<path d="M17.6977 10.6408H31.0215V44.666H17.6977V10.6408Z" fill="#EE008F"/>
+<path d="M23.1562 38.659H29.3668V57.2004H23.1562V38.659Z" fill="#EE008F"/>
+<path d="M25.2192 52.4295H31.4298V61.9713H25.2192V52.4295Z" fill="#EE008F"/>
+<path d="M27.4542 58.7835H35.4054V65.1808H27.4542V58.7835Z" fill="#EE008F"/>
+<path d="M30.9785 62.3617H46V68H30.9785V62.3617Z" fill="#EE008F"/>
+<path d="M21.6734 6H40.2622V27.1871H21.6734V6Z" fill="#EE008F"/>
+<path d="M16 12.9612H19.9112V41.5215H16V12.9612Z" fill="#EE008F"/>
+<rect x="24" y="9" width="15" height="15" fill="white"/>
+<rect x="29" y="15" width="5" height="6" fill="black"/>
+<rect x="32" y="26" width="2" height="3" fill="black"/>
+<rect x="32" y="26" width="2" height="3" fill="black"/>
+<rect x="37.0938" y="26.3887" width="2.05559" height="2.79127" transform="rotate(-21.143 37.0938 26.3887)" fill="black"/>
+<rect x="37.0938" y="26.3887" width="2.05559" height="2.79127" transform="rotate(-21.143 37.0938 26.3887)" fill="black"/>
+<rect x="34" y="26" width="3" height="4" fill="black"/>
+<rect x="34" y="26" width="3" height="4" fill="black"/>
+<rect x="32" y="37" width="2" height="4" fill="black"/>
+<rect x="37.3984" y="37.3364" width="1.99067" height="3.46204" transform="rotate(-5.76641 37.3984 37.3364)" fill="black"/>
+<rect x="34" y="38" width="3" height="3" fill="black"/>
+<path d="M34.3375 32.0633L32 31.737V33.81L34.7254 34.2898L36.4864 35L39.9036 34.2898L41.7379 33.2246L42.9748 32.5432L44.1384 33.4837L45.5849 34.2898L47 33.4837L46.4654 31.737L45.5849 30.547L43.5723 30L41.4235 30.547L39.6625 31.737L37.8281 32.5432H36.2767L34.3375 32.0633Z" fill="#DE0000" stroke="black"/>
+<path d="M68.2553 40.0252H52.3524V42.6058H68.2553V40.0252Z" fill="#00D315"/>
+<path d="M74.3023 10.6408H60.9785V44.666H74.3023V10.6408Z" fill="#00D315"/>
+<path d="M68.8438 38.659H62.6332V57.2004H68.8438V38.659Z" fill="#00D315"/>
+<path d="M66.7808 52.4295H60.5702V61.9713H66.7808V52.4295Z" fill="#00D315"/>
+<path d="M64.5458 58.7835H56.5946V65.1808H64.5458V58.7835Z" fill="#00D315"/>
+<path d="M61.0215 62.3617H46V68H61.0215V62.3617Z" fill="#00D315"/>
+<path d="M70.3266 6H51.7378V27.1871H70.3266V6Z" fill="#00D315"/>
+<path d="M76 12.9612H72.0888V41.5215H76V12.9612Z" fill="#00D315"/>
+<rect width="14" height="15" transform="matrix(-1 0 0 1 69 9)" fill="white"/>
+<rect width="5" height="6" transform="matrix(-1 0 0 1 64 15)" fill="black"/>
+<rect width="2" height="3" transform="matrix(-1 0 0 1 61 26)" fill="black"/>
+<rect width="2" height="3" transform="matrix(-1 0 0 1 61 26)" fill="black"/>
+<rect width="2.03347" height="2.7868" transform="matrix(-0.931156 -0.36462 -0.356803 0.93418 55.9629 26.3887)" fill="black"/>
+<rect width="2.03347" height="2.7868" transform="matrix(-0.931156 -0.36462 -0.356803 0.93418 55.9629 26.3887)" fill="black"/>
+<rect width="3" height="4" transform="matrix(-1 0 0 1 59 26)" fill="black"/>
+<rect width="3" height="4" transform="matrix(-1 0 0 1 59 26)" fill="black"/>
+<rect width="2" height="4" transform="matrix(-1 0 0 1 61 37)" fill="black"/>
+<rect width="1.96628" height="3.46161" transform="matrix(-0.994813 -0.10172 -0.0992414 0.995063 55.6641 37.3364)" fill="black"/>
+<rect width="3" height="3" transform="matrix(-1 0 0 1 59 38)" fill="black"/>
+<path d="M58.6625 32.0633L61 31.737V33.81L58.2746 34.2898L56.5136 35L53.0964 34.2898L51.2621 33.2246L50.0252 32.5432L48.8616 33.4837L47.4151 34.2898L46 33.4837L46.5346 31.737L47.4151 30.547L49.4277 30L51.5765 30.547L53.3375 31.737L55.1719 32.5432H56.7233L58.6625 32.0633Z" fill="#DE0000" stroke="black"/>
 </svg>
