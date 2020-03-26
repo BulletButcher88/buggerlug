@@ -32,6 +32,6 @@ export const OptionLink = styled(Link)`
 export const TitleContainer = styled.div`
   display: flex;
   justify-content: space-around;
-  font-size: 8vw;
+  font-size: 7vw;
   padding: 10px 15px;
 `;
