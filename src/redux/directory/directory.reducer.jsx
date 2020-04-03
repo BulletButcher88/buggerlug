@@ -1,22 +1,25 @@
 const INITIAL_STATE = {
   sections: [
     {
-      title: "hats",
-      imageUrl: "https://i.ibb.co/cvpntL1/hats.png",
+      title: "heartlad",
+      imageUrl:
+        "https://1.bp.blogspot.com/-wPkAgdzlvpQ/XoLh6QmtqWI/AAAAAAADNuU/mukV8IX-4CM3_sp8XSDRqaZaqBLs3XUCQCLcBGAsYHQ/w1320/%2522EPIC%2BHADOUKEN%2522%2Bby%2BHANH%2Bfor%2BHEARTLAB%2Bon%2BTOYSREVIL%2B01.jpg",
       id: 1,
-      linkUrl: "shop/hats"
+      linkUrl: "shop/heartlad"
     },
     {
-      title: "jackets",
-      imageUrl: "https://i.ibb.co/px2tCc3/jackets.png",
+      title: "abiebi",
+      imageUrl:
+        "https://4.bp.blogspot.com/-h7e4Mg-02dE/XoIovYL73yI/AAAAAAADNtE/tiljemmtP88Cx9AoK2MWUzvQoix9COtRACLcBGAsYHQ/w1320/Dadballs%2B%2522Love%2BYour%2BSelf%2522%2Bby%2BABIEBI%2B1.jpeg",
       id: 2,
-      linkUrl: "shop/jackets"
+      linkUrl: "shop/abiebi"
     },
     {
-      title: "sneakers",
-      imageUrl: "https://i.ibb.co/0jqHpnp/sneakers.png",
+      title: "rare collectables",
+      imageUrl:
+        "https://ksr-ugc.imgix.net/assets/020/809/544/516eee778a29a1ff59f75b730b3ac0db_original.JPG?ixlib=rb-2.1.0&w=700&fit=max&v=1523121201&auto=format&frame=1&q=92&s=bb12c774d3cf257f31a0d8fb6c22b348",
       id: 3,
-      linkUrl: "shop/sneakers"
+      linkUrl: "shop/rare"
     },
     {
       title: "Good Guys Never Win",
