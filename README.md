@@ -1,4 +1,4 @@
-# Deployment : https://cwn-live777.herokuapp.com/
+# Deployment : http://www.buggerlug.com/
 
 ## E-commerce website
 
