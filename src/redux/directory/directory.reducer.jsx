@@ -17,7 +17,7 @@ const INITIAL_STATE = {
     {
       title: "rare collectables",
       imageUrl:
-        "https://ksr-ugc.imgix.net/assets/020/809/544/516eee778a29a1ff59f75b730b3ac0db_original.JPG?ixlib=rb-2.1.0&w=700&fit=max&v=1523121201&auto=format&frame=1&q=92&s=bb12c774d3cf257f31a0d8fb6c22b348",
+        "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2019%2F07%2Fbest-art-for-sale-online-july-2019-week-3-01.jpg?quality=95&w=1170&cbr=1&q=90&fit=max",
       id: 3,
       linkUrl: "shop/rare"
     },
