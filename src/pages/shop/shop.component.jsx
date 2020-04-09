@@ -4,11 +4,11 @@ import { connect } from "react-redux";
 
 import { fetchCollectionsStart } from "../../redux/shop/shop.action";
 
-import { selectIsCollectionsLoaded } from "../../redux/shop/shop.selectors";
+// import { selectIsCollectionsLoaded } from "../../redux/shop/shop.selectors";
 import CollectionsOverviewContainer from "../../components/collection-overview/collection-overview.container";
 import CollectionPageContainer from "../collection/collection.container";
 
-import CollectionsOverview from "../../components/collection-overview/collection-overview.component";
+// import CollectionsOverview from "../../components/collection-overview/collection-overview.component";
 
 class ShopPage extends React.Component {
   componentDidMount() {
