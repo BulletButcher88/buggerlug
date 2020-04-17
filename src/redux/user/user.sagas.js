@@ -1,4 +1,4 @@
-import { put, all, call, takeLatest } from "redux-saga/effects";
+import { takeLatest, put, all, call } from "redux-saga/effects";
 
 import UserActionTypes from "./user.types";
 
